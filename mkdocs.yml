@@ -1,6 +1,7 @@
 site_name: Basic MkDocs Example Project
+site_url: https://test-docs-ufpy.readthedocs.io/en/latest/
 theme:
-  name: furo
+  name: material
 plugins:
   - search
 markdown_extensions:
